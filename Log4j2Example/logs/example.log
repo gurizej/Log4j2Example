@@ -1,0 +1,9 @@
+DEBUG | 2019-08-02 23:58:00 | [main] Log4jExample.App (App.java:15) - This Will Be Printed On Debug
+INFO  | 2019-08-02 23:58:00 | [main] Log4jExample.App (App.java:16) - This Will Be Printed On Info
+WARN  | 2019-08-02 23:58:00 | [main] Log4jExample.App (App.java:17) - This Will Be Printed On Warn
+ERROR | 2019-08-02 23:58:00 | [main] Log4jExample.App (App.java:18) - This Will Be Printed On Error
+FATAL | 2019-08-02 23:58:00 | [main] Log4jExample.App (App.java:19) - This Will Be Printed On Fatal
+INFO  | 2019-08-02 23:58:00 | [main] Log4jExample.App (App.java:21) - Appending string: Hello, World.
+WARN  | 2019-08-02 23:58:39 | [main] Log4jExample.App (App.java:17) - This Will Be Printed On Warn
+ERROR | 2019-08-02 23:58:39 | [main] Log4jExample.App (App.java:18) - This Will Be Printed On Error
+FATAL | 2019-08-02 23:58:39 | [main] Log4jExample.App (App.java:19) - This Will Be Printed On Fatal
